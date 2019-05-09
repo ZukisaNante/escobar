@@ -2,7 +2,7 @@
 
 ## Description
 
-Escobar is a coffe house situated in Antwerpen and has a lot to offer i.e. beverages, burgers and many more.
+Escobar is a coffee house situated in Antwerpen and has a lot to offer i.e. beverages, burgers and many more.
 It offers breakfast and lunch according to the specified hours that can be seen from their website.
 The owners do welcome you to experience their services and appreciate feedback from their customers.
 
