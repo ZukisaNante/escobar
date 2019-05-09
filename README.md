@@ -31,7 +31,7 @@ Will contain the company information(adress, email, linkedin, twitter, facebook,
 ### 3. Grid Container
 
 Here we will have images showing the company's location and in and out views.
-The grid will be executed by using '''bash Bootstrap Framework Cards'''
+The grid will be executed by using **Bootstrap Framework Cards**
 
 ### 4. Avatar
 
@@ -40,6 +40,6 @@ Will contain the images and will be in our grid.
 ### 5. Form/Textbox
 
 Here we will allow the customers to share their views about our services.
-'''bash
-    CSS, Sass, Bootstrap and Zukisatrap framework
-    '''
+
+**CSS, Sass, Bootstrap and Zukisatrap framework**
+    
