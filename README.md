@@ -14,11 +14,11 @@ It comprises of a form where customers can write their reviews and comments. Use
 
 ## Elements Specifications
 
-. Fixed Navigation Bar
-. Fixed Footer
-. Grid container
-. Avatar (menu)
-. Form/Textbox (Reviews)
+- Fixed Navigation Bar
+- Fixed Footer
+- Grid container
+- Avatar (menu)
+- Form/Textbox (Reviews)
 
 ### 1. Fixed Bar
 
